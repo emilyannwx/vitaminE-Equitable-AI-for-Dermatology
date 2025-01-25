@@ -1,1 +1,1 @@
-# vitamine-Equitable-AI-for-Dermatology
+# vitaminE-Equitable-AI-for-Dermatology
