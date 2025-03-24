@@ -18,3 +18,4 @@ AI in healthcare often underperforms for people with darker skin due to biased t
 - **Preproccessing**: Cleaned data, applied augmentation, and analyzed class distribution.
 
 ## EDA Visualizations
+![Plot Distrubitions](images/Fernanda_plot_distributions.jpeg)
