@@ -32,14 +32,9 @@ To run the notebook and reproduce our results:
     source env/bin/activate  # For Windows: .\env\Scripts\activate
     ```
 
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+3. Download the dataset from Kaggle and place it in the `data/` folder as per the competition rules.
 
-4. Download the dataset from Kaggle and place it in the `data/` folder as per the competition rules.
-
-5. Launch Jupyter Notebook and open:
+4. Launch Jupyter Notebook and open:
     ```
     maria-s-notebook.ipynb
     ```
