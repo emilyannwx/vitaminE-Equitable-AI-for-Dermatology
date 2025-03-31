@@ -66,9 +66,9 @@ AI in healthcare often underperforms for people with darker skin due to biased t
   - Data split: 80% training, 20% validation.
   - Categorical crossentropy loss and Adam optimizer.
 - **Augmentation**:
-  - Rotation: 20 degrees
-  - Width/Height shifts: 10%
-  - Zoom: 20%
+  - Rotation
+  - Width/Height shifts
+  - Zoom
   - Horizontal flipping
 - **Callbacks**:
   - EarlyStopping 
@@ -102,6 +102,6 @@ We believe that even incremental improvements in fairness can lead to more equit
 ## References & Additional Resources
 
 - Groh, M. et al. (2021). *Evaluating Deep Neural Networks Trained on Clinical Images in Dermatology*.
-- Fitzpatrick17k Dataset: [GitHub Repo](https://github.com/mgroh/fitzpatrick17k)
+- Fitzpatrick17k Dataset: [GitHub Repo][(https://github.com/mgroh/fitzpatrick17k)](https://github.com/emilyannwx/vitaminE-Equitable-AI-for-Dermatology.git)
 - Grad-CAM Paper: https://arxiv.org/abs/1610.02391
 - AJL Fairness Guide: [Algorithmic Justice League Resource](https://drive.google.com/file/d/1kYKaVNR_l7Abx2kebs3AdDi6TlPviC3q/view)
