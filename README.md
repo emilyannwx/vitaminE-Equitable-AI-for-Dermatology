@@ -72,7 +72,6 @@ AI in healthcare often underperforms for people with darker skin due to biased t
   - Horizontal flipping
 - **Callbacks**:
   - EarlyStopping 
-  - ReduceLROnPlateau
 - **Evaluation Metric**: Weighted F1 score due to class imbalance.
 
 ## Results & Key Findings
@@ -102,6 +101,6 @@ We believe that even incremental improvements in fairness can lead to more equit
 ## References & Additional Resources
 
 - Groh, M. et al. (2021). *Evaluating Deep Neural Networks Trained on Clinical Images in Dermatology*.
-- Fitzpatrick17k Dataset: [GitHub Repo][(https://github.com/mgroh/fitzpatrick17k)](https://github.com/emilyannwx/vitaminE-Equitable-AI-for-Dermatology.git)
+- Fitzpatrick17k Dataset: [GitHub Repo](https://github.com/emilyannwx/vitaminE-Equitable-AI-for-Dermatology.git)
 - Grad-CAM Paper: https://arxiv.org/abs/1610.02391
 - AJL Fairness Guide: [Algorithmic Justice League Resource](https://drive.google.com/file/d/1kYKaVNR_l7Abx2kebs3AdDi6TlPviC3q/view)
